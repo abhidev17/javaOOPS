@@ -10,7 +10,7 @@ public class factWhile {
         while(i<=num){
             fact*=i;
             i++;
-        } System.out.println(" factorial of " + num + " is          "  + fact);
+        } System.out.println(" factorial of " + num + " is "  + fact);
         scanner.close();
     }
     
